@@ -34,7 +34,7 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 다항로지스틱 회귀분석
 * 분류모형 성능 평가 지표
 
-## Topic 5: Decision Tree([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree.pdf))
+## Topic 5: Decision Tree ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree.pdf))
 * 의사결정나무 특징
 * 분류나무: 재귀적 분기, 불순도 측정, 정보 획득의 개념
 * 과적합 방지를 위한 가지치기
