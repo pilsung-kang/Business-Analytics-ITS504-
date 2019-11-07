@@ -41,7 +41,7 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 의사결정나무 해석
 * 회귀나무: 불순도 
 
-## Topic 6: Decision Tree ([Slide]())
+## Topic 6: Variable Selection ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/06%20Variable%20Selection/06_Variable%20Selection.pdf))
 * 변수 선택 개요
 * 전진선택법/후방소거법/단계적선택법
 * 유전알고리즘을 이용한 변수 
