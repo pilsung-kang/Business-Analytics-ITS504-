@@ -45,3 +45,9 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 변수 선택 개요
 * 전진선택법/후방소거법/단계적선택법
 * 유전알고리즘을 이용한 변수 
+
+## Topic 6: k-NN, LDA, NB ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20kNN%20LDA%20NB/07_k-NN%20Naive%20Bayes%20LDA.pdf))
+* k-Neareset Neighbor Classification/Regression
+* Linear Discriminant Analysis
+* Naive Baye's Classifier
+
