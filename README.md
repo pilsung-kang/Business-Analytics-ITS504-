@@ -40,3 +40,8 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 과적합 방지를 위한 가지치기
 * 의사결정나무 해석
 * 회귀나무: 불순도 
+
+## Topic 6: Decision Tree ([Slide]())
+* 변수 선택 개요
+* 전진선택법/후방소거법/단계적선택법
+* 유전알고리즘을 이용한 변수 
