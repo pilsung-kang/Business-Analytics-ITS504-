@@ -57,7 +57,7 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * Gradient Descent Algorithm
 * Multi-Layered Perceptron
 
-## Topic 8: Ensemble ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/08%20Neural%20Networks/08_Neural%20Networks.pdf))
+## Topic 8: Ensemble ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/09%20Ensemble/09_Ensemble.pdf))
 * Ensemble Overview
 * Bagging
 * Random Forest
