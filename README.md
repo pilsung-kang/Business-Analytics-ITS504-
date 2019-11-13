@@ -51,3 +51,19 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * Linear Discriminant Analysis
 * Naive Baye's Classifier
 
+## Topic 7: Neural Networks ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/08%20Neural%20Networks/08_Neural%20Networks.pdf))
+* Neural Network Overview
+* Perceptron
+* Gradient Descent Algorithm
+* Multi-Layered Perceptron
+
+## Topic 8: Ensemble ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/08%20Neural%20Networks/08_Neural%20Networks.pdf))
+* Ensemble Overview
+* Bagging
+* Random Forest
+* Adaptive Boosting (AdaBoost)
+* Gradient Boosting Machine (GBM)
+
+
+
+
