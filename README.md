@@ -3,10 +3,10 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 
 ## Notice
 * **기말고사 공지**
-* 시험문제: ([다운로드](https://www.dropbox.com/s/ay700n4cku24omf/2019_%EA%B3%B5%ED%95%99%EB%8C%80%ED%95%99%EC%9B%90_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC.pdf?dl=0))
-* 제출방식: 시험 문제의 빈칸에 답안을 작성하여 스캔한 PDF 파일을 pilsung_kang at korea.ac.kr 이메일로 제출
-* 제출기한: 12월 20일(금) 23:59
-* 한 학기 동안 수고 많으셨습니다.
+  * 시험문제: ([다운로드](https://www.dropbox.com/s/ay700n4cku24omf/2019_%EA%B3%B5%ED%95%99%EB%8C%80%ED%95%99%EC%9B%90_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC.pdf?dl=0))
+  * 제출방식: 시험 문제의 빈칸에 답안을 작성하여 스캔한 PDF 파일을 pilsung_kang at korea.ac.kr 이메일로 제출
+  * 제출기한: 12월 20일(금) 23:59
+  * 한 학기 동안 수고 많으셨습니다.
 
 * Course syllabus: [download](https://www.dropbox.com/s/tyqnft9slxh4dz5/2019_2_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4.pdf?dl=0)
 * Recommended Books
