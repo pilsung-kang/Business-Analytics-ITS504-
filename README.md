@@ -2,13 +2,8 @@
 Course homepage for "Business Analytics (ITS504)" @Korea University
 
 ## Notice
-* **기말고사 공지**
-  * 시험문제: ([다운로드](https://www.dropbox.com/s/ay700n4cku24omf/2019_%EA%B3%B5%ED%95%99%EB%8C%80%ED%95%99%EC%9B%90_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC.pdf?dl=0))
-  * 제출방식: 시험 문제의 빈칸에 답안을 작성하여 스캔한 PDF 파일을 pilsung_kang at korea.ac.kr 이메일로 제출
-  * 제출기한: 12월 20일(금) 23:59
-  * 한 학기 동안 수고 많으셨습니다.
+* Course syllabus: ([Document](), [Slide](), [Video]())
 
-* Course syllabus: [download](https://www.dropbox.com/s/tyqnft9slxh4dz5/2019_2_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4.pdf?dl=0)
 * Recommended Books
   * 데이터마이닝 기법과 응용, 전치혁, 한나래아카데미
   * R을 이용한 데이터마이닝, 박창이, 교우사
@@ -16,60 +11,35 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
   * R Cookbook:데이터 분석과 통계 그래픽스를 위한 실전 예제, 폴 티터, 이제원, 
 
 ## Schedule
-## Topic 1: Introduction to Business Analytics ([Slide](https://www.dropbox.com/s/mzpp6991271unlc/Introduction%20to%20Business%20Analytics.pdf?dl=0))
-* 빅데이터 분석 개요 및 주요 개념
-* 데이터과학 프로젝트 절차
-* 기계학습 방법론
-* 제조업 활용 사례: 가상 계측 모델 개발
+## Topic 1: Introduction to Business Analytics
+* 빅데이터 분석 개요 및 주요 개념 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-1_Introduction_Data%20Science%20Overview.pdf), [Video]())
+* 데이터과학 프로젝트 절차 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-2_Introduction_Data%20Science%20Process.pdf), [Video]())
+* 기계학습 방법론 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-3_Introduction_Machine%20Learning.pdf), [Video]())
+* 제조업 활용 사례: 가상 계측 모델 개발 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-4_Introduction_Case%20Study.pdf), [Video]())
 
-## Topic 2: Association Rule Mining ([Slide](https://www.dropbox.com/s/odke2w6nedq07lr/02_Association%20Rule%20Mining.pdf?dl=0))
-* 추천 시스템 개요
-* 아이템간의 연관성에 기반한 추천
-* 연관규칙분석 알고리즘: A-Priori Algorithm
-* 연관규칙의 효용성 평가
-
-## Topic 3: Multivariate Linear Regression ([Slide](https://www.dropbox.com/s/e692am6l3za61vo/03_Multivariate%20Linear%20Regression.pdf?dl=0))
+## Topic 2: Multivariate Linear Regression
 * 다중선형회귀분석 개요
 * 회귀분석 해찾기: 최소자승법
 * 회귀분석 타당성 지표: R2, Adjusted R2
 * 회귀모형 성능 평가 지표
 
-## Topic 4: Logistic Regression ([Slide](https://www.dropbox.com/s/jk6ds9mb8pc28k7/04_Logistic%20Regression.pdf?dl=0))
+## Topic 3: Logistic Regression
 * 로지스틱회귀분석 개요
 * 로지스틱 회귀분석 해찾기: 기울기(경사) 하강법
 * 다항로지스틱 회귀분석
 * 분류모형 성능 평가 지표
 
-## Topic 5: Decision Tree ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree.pdf))
+## Topic 4: Decision Tree
 * 의사결정나무 특징
 * 분류나무: 재귀적 분기, 불순도 측정, 정보 획득의 개념
 * 과적합 방지를 위한 가지치기
 * 의사결정나무 해석
 * 회귀나무: 불순도 
 
-## Topic 6: Variable Selection ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/06%20Variable%20Selection/06_Variable%20Selection.pdf))
+## Topic 5: Variable Selection
 * 변수 선택 개요
 * 전진선택법/후방소거법/단계적선택법
-* 유전알고리즘을 이용한 변수 
-
-## Topic 6: k-NN, LDA, NB ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20kNN%20LDA%20NB/07_k-NN%20Naive%20Bayes%20LDA.pdf))
-* k-Neareset Neighbor Classification/Regression
-* Linear Discriminant Analysis
-* Naive Baye's Classifier
-
-## Topic 7: Neural Networks ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/08%20Neural%20Networks/08_Neural%20Networks.pdf))
-* Neural Network Overview
-* Perceptron
-* Gradient Descent Algorithm
-* Multi-Layered Perceptron
-
-## Topic 8: Ensemble ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/09%20Ensemble/09_Ensemble.pdf))
-* Ensemble Overview
-* Bagging
-* Random Forest
-* Adaptive Boosting (AdaBoost)
-* Gradient Boosting Machine (GBM)
-
+* Shrinkage Method
 
 
 
