@@ -12,8 +12,8 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 
 ## Schedule
 ## Topic 1: Introduction to Business Analytics
-* 빅데이터 분석 개요 및 주요 개념 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-1_Introduction_Data%20Science%20Overview.pdf), [Video]())
-* 데이터과학 프로젝트 절차 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-2_Introduction_Data%20Science%20Process.pdf), [Video]())
+* 빅데이터 분석 개요 및 주요 개념 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-1_Introduction_Data%20Science%20Overview.pdf), [Video](https://www.youtube.com/watch?v=_ZQraxlhfNE&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=2))
+* 데이터과학 프로젝트 절차 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-2_Introduction_Data%20Science%20Process.pdf), [Video](https://www.youtube.com/watch?v=lq5JnbeKBxk&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=3))
 * 기계학습 방법론 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-3_Introduction_Machine%20Learning.pdf), [Video]())
 * 제조업 활용 사례: 가상 계측 모델 개발 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-4_Introduction_Case%20Study.pdf), [Video]())
 
