@@ -18,10 +18,8 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 제조업 활용 사례: 가상 계측 모델 개발 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-4_Introduction_Case%20Study.pdf), [Video]())
 
 ## Topic 2: Multivariate Linear Regression
-* 다중선형회귀분석 개요
-* 회귀분석 해찾기: 최소자승법
-* 회귀분석 타당성 지표: R2, Adjusted R2
-* 회귀모형 성능 평가 지표
+* 다중선형회귀분석 개요, 회귀분석 해찾기(최소자승법), 회귀분석 타당성 지표(R2, Adjusted R2) ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_1_Multiple%20Linear%20Regression.pdf), [Video](https://www.youtube.com/watch?v=UIdvUPLQIIY&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=5))
+* 회귀모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_2_Evaluating%20Regression%20Models.pdf))
 
 ## Topic 3: Logistic Regression
 * 로지스틱회귀분석 개요
