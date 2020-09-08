@@ -14,12 +14,13 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 ## Topic 1: Introduction to Business Analytics
 * 빅데이터 분석 개요 및 주요 개념 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-1_Introduction_Data%20Science%20Overview.pdf), [Video](https://www.youtube.com/watch?v=_ZQraxlhfNE&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=2))
 * 데이터과학 프로젝트 절차 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-2_Introduction_Data%20Science%20Process.pdf), [Video](https://www.youtube.com/watch?v=lq5JnbeKBxk&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=3))
-* 기계학습 방법론 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-3_Introduction_Machine%20Learning.pdf), [Video]())
-* 제조업 활용 사례: 가상 계측 모델 개발 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-4_Introduction_Case%20Study.pdf), [Video]())
+* 기계학습 방법론 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-3_Introduction_Machine%20Learning.pdf), [Video](https://www.youtube.com/watch?v=dH9nkE289rY&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=4))
+* 제조업 활용 사례: 가상 계측 모델 개발 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/01%20Introduction%20to%20Data%20Analytics/01-4_Introduction_Case%20Study.pdf), [Video](https://www.youtube.com/watch?v=ufSc85ZkBvM&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=5))
 
 ## Topic 2: Multivariate Linear Regression
 * 다중선형회귀분석 개요, 회귀분석 해찾기(최소자승법), 회귀분석 타당성 지표(R2, Adjusted R2) ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_1_Multiple%20Linear%20Regression.pdf), [Video](https://www.youtube.com/watch?v=UIdvUPLQIIY&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=5))
 * 회귀모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_2_Evaluating%20Regression%20Models.pdf))
+* 다중선형 회귀분석 R 실습(optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Video](https://www.youtube.com/watch?v=iB9LKe5pgc0&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=8), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/02%20Multiple%20Linear%20Regression/R_Exercise_MLR.zip))
 
 ## Topic 3: Logistic Regression
 * 로지스틱회귀분석 개요
