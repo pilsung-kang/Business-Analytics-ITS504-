@@ -19,7 +19,7 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 
 ## Topic 2: Multivariate Linear Regression
 * 다중선형회귀분석 개요, 회귀분석 해찾기(최소자승법), 회귀분석 타당성 지표(R2, Adjusted R2) ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_1_Multiple%20Linear%20Regression.pdf), [Video](https://www.youtube.com/watch?v=UIdvUPLQIIY&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=5))
-* 회귀모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_2_Evaluating%20Regression%20Models.pdf))
+* 회귀모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/02%20Multiple%20Linear%20Regression/02_2_Evaluating%20Regression%20Models.pdf), [Video](https://www.youtube.com/watch?v=BZVLIP6OHGg&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=7))
 * 다중선형 회귀분석 R 실습(optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Video](https://www.youtube.com/watch?v=iB9LKe5pgc0&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=8), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/02%20Multiple%20Linear%20Regression/R_Exercise_MLR.zip))
 
 ## Topic 3: Logistic Regression
