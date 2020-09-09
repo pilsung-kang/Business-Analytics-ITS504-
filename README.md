@@ -25,7 +25,7 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 ## Topic 3: Logistic Regression
 * 로지스틱회귀분석 개요 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-1_Logistic%20Regression_Formulation.pdf), [Video](https://www.youtube.com/watch?v=BgB2NB7fLiM&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=8))
 * 로지스틱 회귀분석 해찾기: 기울기(경사) 하강법 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-2_Logistic%20Regression_Learning.pdf), [Video](https://www.youtube.com/watch?v=kgIaWJvQdUQ&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=9))
-* 로지스틱 회귀분석 결과해석 및 다항로지스틱 회귀분석 ([https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-3_Logistic%20Regression_Interpretation.pdf], [Video](https://www.youtube.com/watch?v=0rQC7_lShzs&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=10))
+* 로지스틱 회귀분석 결과해석 및 다항로지스틱 회귀분석 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-3_Logistic%20Regression_Interpretation.pdf], [Video](https://www.youtube.com/watch?v=0rQC7_lShzs&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=10))
 * 분류모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-4_Classification%20Performance%20Evaluation.pdf), [Video](https://www.youtube.com/watch?v=LVelNNOB4c0&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=11))
 
 ## Topic 4: Decision Tree
