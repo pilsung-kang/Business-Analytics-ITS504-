@@ -28,17 +28,16 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 로지스틱 회귀분석 결과해석 및 다항로지스틱 회귀분석 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-3_Logistic%20Regression_Interpretation.pdf), [Video](https://www.youtube.com/watch?v=0rQC7_lShzs&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=10))
 * 분류모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-4_Classification%20Performance%20Evaluation.pdf), [Video](https://www.youtube.com/watch?v=LVelNNOB4c0&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=11))
 
-## Topic 4: Decision Tree
+## Topic 4: Variable Selection
+* 변수 선택 개요 ([Slide](), [Video](https://www.youtube.com/watch?v=YCPQgjwHQqU&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=12))
+* 전진선택법/후방소거법/단계적선택법 ([Slide](), [Video](https://www.youtube.com/watch?v=1hFj8i2IZXE&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=13))
+* Shrinkage Method
+
+## Topic 5: Decision Tree
 * 의사결정나무 특징
 * 분류나무: 재귀적 분기, 불순도 측정, 정보 획득의 개념
 * 과적합 방지를 위한 가지치기
 * 의사결정나무 해석
 * 회귀나무: 불순도 
-
-## Topic 5: Variable Selection
-* 변수 선택 개요
-* 전진선택법/후방소거법/단계적선택법
-* Shrinkage Method
-
 
 
