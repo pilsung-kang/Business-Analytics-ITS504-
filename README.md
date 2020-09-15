@@ -27,11 +27,12 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 로지스틱 회귀분석 해찾기: 기울기(경사) 하강법 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-2_Logistic%20Regression_Learning.pdf), [Video](https://www.youtube.com/watch?v=kgIaWJvQdUQ&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=9))
 * 로지스틱 회귀분석 결과해석 및 다항로지스틱 회귀분석 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-3_Logistic%20Regression_Interpretation.pdf), [Video](https://www.youtube.com/watch?v=0rQC7_lShzs&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=10))
 * 분류모형 성능 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/03%20Logistic%20Regression/03-4_Classification%20Performance%20Evaluation.pdf), [Video](https://www.youtube.com/watch?v=LVelNNOB4c0&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=11))
+* 로지스틱 회귀분석 R 실습(optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Video](https://www.youtube.com/watch?v=FwReI2IJBJ4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=13), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/03%20Logistic%20Regression/R%20Exercise_LogReg.zip))
 
 ## Topic 4: Variable Selection
-* 변수 선택 개요 ([Slide](), [Video](https://www.youtube.com/watch?v=YCPQgjwHQqU&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=12))
-* 전진선택법/후방소거법/단계적선택법 ([Slide](), [Video](https://www.youtube.com/watch?v=1hFj8i2IZXE&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=13))
-* Shrinkage Method
+* 변수 선택 개요 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-1_Dimensionality%20Reduction_part1.pdf), [Video](https://www.youtube.com/watch?v=YCPQgjwHQqU&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=12))
+* 전진선택법/후방소거법/단계적선택법 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-2_Dimensionality%20Reduction_part2.pdf), [Video](https://www.youtube.com/watch?v=1hFj8i2IZXE&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=13))
+* Shrinkage Method ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-3_Dimensionality%20Reduction_part3.pdf))
 
 ## Topic 5: Decision Tree
 * 의사결정나무 특징
