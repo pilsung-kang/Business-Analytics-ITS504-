@@ -32,13 +32,11 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 ## Topic 4: Variable Selection
 * 변수 선택 개요 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-1_Dimensionality%20Reduction_part1.pdf), [Video](https://www.youtube.com/watch?v=YCPQgjwHQqU&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=12))
 * 전진선택법/후방소거법/단계적선택법 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-2_Dimensionality%20Reduction_part2.pdf), [Video](https://www.youtube.com/watch?v=1hFj8i2IZXE&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=13))
-* Shrinkage Method ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-3_Dimensionality%20Reduction_part3.pdf))
+* Shrinkage Method ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/04%20Dimensionality%20Reduction/04-3_Dimensionality%20Reduction_part3.pdf), [Video](https://www.youtube.com/watch?v=11vqgwTWnak&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=14))
 
 ## Topic 5: Decision Tree
-* 의사결정나무 특징
-* 분류나무: 재귀적 분기, 불순도 측정, 정보 획득의 개념
-* 과적합 방지를 위한 가지치기
-* 의사결정나무 해석
-* 회귀나무: 불순도 
+* 의사결정나무 특징, 분류나무(재귀적 분기, 불순도 측정, 정보 획득의 개념), 과적합 방지를 위한 가지치기, 의사결정나무 해석, 회귀나무의 불순도 측정 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree.pdf), [Video](https://www.youtube.com/watch?v=UFbJprjfS1E&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=15))
+* 의사결정나무(분류나무) R 실습(optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree_R_Exercise_Classification_Tree.pdf), [Video](https://www.youtube.com/watch?v=1I0h_hbikzU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=19))
+* 의사결정나무(회귀나무) R 실습(optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree_R_Exercise_Regression_Tree.pdf), [Video](https://www.youtube.com/watch?v=Im7zHBp_kZg&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=20))
 
 
