@@ -41,5 +41,5 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 의사결정나무(회귀나무) R 실습(optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/05%20Decision%20Tree/05_Decision%20Tree_R_Exercise_Regression_Tree.pdf), [Video](https://www.youtube.com/watch?v=Im7zHBp_kZg&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=20), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/R%20Exercise_Regression%20Tree.zip))
 
 ## Topic 6: Artificial Neural Network
-* 인공신경망 개요, Perceptron 구조, Gradient Descent 학습 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/06%20Artificial%20Neural%20Network/06-1_Artificial%20Neural%20Networks_Perceptron.pdf))
+* 인공신경망 개요, Perceptron 구조, Gradient Descent 학습 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/06%20Artificial%20Neural%20Network/06-1_Artificial%20Neural%20Networks_Perceptron.pdf), [Video](https://www.youtube.com/watch?v=3Q-aIpLw97k&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=16))
 * 다층 퍼셉트론 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/06%20Artificial%20Neural%20Network/06-2_Artificial%20Neural%20Networks_MLP.pdf))
