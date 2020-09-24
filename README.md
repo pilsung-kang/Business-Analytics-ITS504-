@@ -46,7 +46,7 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 인공신경망 R 실습 (optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/R%20Exercise_ANN.pdf), [Video](https://www.youtube.com/watch?v=o8O1ckE5I84&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=23), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/R_Exercise_ANN.zip))
 
 ## Topic 7: Clustering
-* 군집화 개요, 군집 타당성 평가 지표
-* K-평균 군집화
-* 계층적 군집화
-* 밀도기반 군집화
+* 군집화 개요, 군집 타당성 평가 지표 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20Clustering/07-1_Clustering_Overview.pdf))
+* K-평균 군집화 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20Clustering/07-2_K-Means%20Clustering.pdf))
+* 계층적 군집화 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20Clustering/07-3_Hierarchical%20Clustering.pdf))
+* 밀도기반 군집화 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20Clustering/07-4_DBSCAN.pdf))
