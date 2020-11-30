@@ -51,3 +51,6 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 * 계층적 군집화 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20Clustering/07-3_Hierarchical%20Clustering.pdf), [Video](https://www.youtube.com/watch?v=KmbCZV3wxbY&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=20))
 * 밀도기반 군집화 ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/07%20Clustering/07-4_DBSCAN.pdf), [Video](https://www.youtube.com/watch?v=PuVH38UpgNU&list=PLetSlH8YjIfXMOuS4piqzJRvSZorDnNUm&index=21))
 * 군집화 R 실습 ((optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Video](https://www.youtube.com/watch?v=mZZr39ywicY&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=37), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/R%20Exercise_Clustering.zip))
+
+## Topic 8: Association Rule Mining
+* 연관규칙분석 - 배경, A-Priori Algorithm ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/08%20Association%20Rule%20Mining/08_Association%20Rule%20Mining.pdf), [Video](https://youtu.be/AUfYCH9KsoE))
