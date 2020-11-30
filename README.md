@@ -54,3 +54,4 @@ Course homepage for "Business Analytics (ITS504)" @Korea University
 
 ## Topic 8: Association Rule Mining
 * 연관규칙분석 - 배경, A-Priori Algorithm ([Slide](https://github.com/pilsung-kang/Business-Analytics-ITS504-/blob/master/08%20Association%20Rule%20Mining/08_Association%20Rule%20Mining.pdf), [Video](https://youtu.be/AUfYCH9KsoE))
+* 연관규칙분석 R 실습 (optional, 2020년 1학기 산업경영공학부 다변량데이터분석 실습자료) ([Video](https://www.youtube.com/watch?v=ul_W7AnYqKk), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Association%20Rule%20Mining/R%20Exercise_ARM.zip))
