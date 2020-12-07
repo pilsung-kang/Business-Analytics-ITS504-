@@ -2,6 +2,15 @@
 Course homepage for "Business Analytics (ITS504)" @Korea University
 
 ## Notice
+* 비대면 기말고사 공지
+  * 일시: 2020년 12월 22일(화) 오후 6시 30분~7시 45분 (75분)
+  * 형식: Google Meet 회의 링크에 접속하여 시험시간 동안 비디오를 켠 상태에서 시험 실시
+  * 시험 방식: Open Slide + Cheating Sheet (A4용지 앞뒤로 2장, 총 4페이지, 본인이 직접 필기한 자료만 인정) 
+  * 링크 및 시험 문제는 당일 오후 6시 25분에 블랙보드의 이메일 기능을 이용하여 전송
+  * 기말고사 제출 방식
+  * 7시 45분 시점에서 답안지(A4 단면)를 페이지별로 휴대폰으로 촬영하여 담당교수 이메일(pilsung_kang@korea.ac.kr)로 전송
+  * 12월 25일(금) 자정까지 Cheating Sheet와 답안지 원본을 스테이플러로 결합하여 담당교수 연구실로 제출(창의관 801A호, 부재중일 경우 문 아래로 밀어넣기)
+
 * Course syllabus: ([Document](), [Slide](), [Video]())
 
 * Recommended Books
